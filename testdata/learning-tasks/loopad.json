@@ -1,0 +1,28 @@
+{
+  "moduleName": "Atom och materia",
+  "subject": {
+    "name": "Kemi 1",
+    "course": {
+      "name": "Kemi 1",
+      "url": "/kurser/amnesrena/kemi1.19.75c1a082150f47219585eaa2.html"
+    }
+  },
+  "commonTasks": [
+    {
+      "name": "Aktiviteter - begrepp",
+      "url": "https://kg.kunskapsporten.sehttps://docs.google.com/document/d/1ID0XsyvXD7uKwsMtFH1VxfC3wGEPmoUak8l0jHuJl00/edit?usp=sharing",
+      "id": "6.75c1a082150f4721958649ec"
+    },
+    {
+      "name": "Aktivitet - vilka hänger ihop",
+      "url": "https://kg.kunskapsporten.sehttps://docs.google.com/document/d/1mtTeWBLmZPHj9EjH2_fDD9XYWQF1d--MiY0vG-w3Z3I/edit?usp=sharing",
+      "id": "6.75c1a082150f472195864d1b"
+    },
+    {
+      "name": "Memory - sammansatta joner",
+      "url": "https://kg.kunskapsporten.sehttps://docs.google.com/spreadsheets/d/1tWpVA8iLRqBGaacLBPBhPyqieKrMw_h8c-vGDA7zyz8/edit?usp=sharing",
+      "id": "6.75c1a082150f472195864d6f"
+    }
+  ],
+  "learningGoals": []
+}

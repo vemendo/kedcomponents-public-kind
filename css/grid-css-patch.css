@@ -1,0 +1,24 @@
+
+/* Give feedback when de-selecing a selectable also when hovering it (will always be hovering it when clicking on it
+*/
+.selectable:not(.markedGreen):hover {
+    background: rgba(0, 255, 0, 0.08) !important
+}
+
+.selectable {
+    user-select: none;
+}
+
+td.selectable:hover {
+    border-style: dotted !important;
+}
+
+.openHeader {
+    user-select: none;
+}
+
+/* Instead of .oddLine, use :nth-child(odd).
+   It makes it easier to render it with React. */
+.taskContainer.odd-even > div:nth-child(odd) {
+    background: #eeeeee !important;
+}

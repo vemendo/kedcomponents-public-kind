@@ -1,0 +1,67 @@
+/* Dialog */
+div.modal-page {
+  min-width: 490px; /* Ny. Gör veckoplanerarens dialoger trevligare */
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  div.modal-page-wrap {
+    padding-top: 48px; /* Placera dialogytan under funktionsmenyn */
+    padding-bottom: 16px; /* Verkar behövas justera nedåt också */
+    box-sizing: border-box;
+  }
+
+  div.modal-page {
+    margin: 12px;
+    min-width: 0;
+    box-sizing: border-box;
+    width: 100%;
+    max-height: 100%;
+    overflow: auto;
+  }
+}
+
+/* Dessa gör att vidden på input-elementen i veckoplanerarens dialoger blir ok. */
+div.modal-page textarea, div.modal-page input[type="text"] {
+  width: 95%;
+}
+div.modal-page textarea {
+  height: 60px;
+  min-width: 70%;
+}
+
+/* För texten "Lägg till beskrivning..." när man tittar på egen uppgift där beskrivning saknas... */
+.renameable-text.unnamed {
+  font-style: italic;
+}
+
+.weekplanner-textarea {
+  width: 95%;
+  height: 100px;
+}
+
+/* Nedan kommer tillägg till extraks-public-grid.css, där jag lagt till
+   textarea på de ställen där input[type="text"] styrdes.
+   
+   OBS! Kopiera inte hela denna, utan leta upp samma ställe i extraks och lägg
+   bara till textarea på de ställena!
+   
+   <textarea> används i dialogerna för veckoplanerarens egna uppgifter. */
+form, input, select, textarea {
+  font-family: circular-book,arial,sans-serif;
+  font-size: 1em;
+}
+input[type="text"], textarea {
+  border: 1px #ddd solid;
+  margin-left: 0.5em;
+  padding: 0.3em;
+  margin-bottom: 15px;
+  font-size: 1em;
+  border-radius: 5px;
+}
+input[type="text"]:focus, textarea:focus {
+  outline: none;
+  border-bottom: 3px #3dbca2 solid;
+  border-radius: 5px 5px 0 0;
+  margin-bottom: 13px;
+}

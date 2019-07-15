@@ -1,0 +1,20 @@
+
+textarea.learning-goal-box {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.wysiwyg-content.readonly {
+  max-height: initial;
+}
+
+.deleteDate:before {
+  display: inline-block;
+  content: "\f273";
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: 1.25em;
+  font-weight: normal;
+  margin-left: .8em;
+  margin-top: 0.26em;
+  color: #d55858;
+}

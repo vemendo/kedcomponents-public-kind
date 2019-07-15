@@ -1,0 +1,64 @@
+div.modal-page-wrap {
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.modal-page {
+  position: relative;
+  background-color: #fff;
+  padding: 5px 20px 20px 20px;
+  margin-bottom: 2em;
+  max-width: 90%;
+  min-width: 490px; /* NEW! */
+  max-height: 90%;
+  overflow-y: auto;
+  border: 3px solid #3dbca2;
+  border-radius: 8px;
+  box-shadow: 0 0 80px 10px #666;
+  width: auto !important;
+}
+
+div.darken {
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 0.7;
+  background-color: #888;
+  width: 100vw;
+  height: 100vh;
+}
+
+div.modal-page .removeItem:before {
+  color: #3dbca2;
+}
+
+div.modal-page .removeItem:hover:before {
+  font-weight: bold;
+}
+
+div.modal-page .removeItem {
+  position: absolute;
+  top: 5px;
+  right: 3px;
+}
+
+div.modal-page textarea, div.modal-page input[type="text"] {
+  width: 95%;
+}
+
+div.modal-page textarea {
+  height: 60px;
+  min-width: 70%;
+}
+
+.renameable-text.unnamed {
+  font-style: italic;
+}

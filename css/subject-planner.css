@@ -1,0 +1,161 @@
+
+.entitymeta-adding, .entitymeta-updating, .entitymeta-deleting, .entitymeta-removing {
+  opacity: 0.5;
+}
+
+.entitymeta-persisted {
+  font-weight: bold;
+}
+
+.loading-indicator {
+  position: relative;
+  top: 0; left: 0;
+}
+
+.loading-indicator .indicator {
+  position: absolute;
+  top: 0; left: 0;
+  width: 50px;
+  height: 50px;
+}
+
+.horizontalMenu li.action-tab, .buttonsTabs li.action-tab {
+  background: rgba(55, 55, 55, 0.25);
+  /*border-radius: 6px;*/
+}
+
+.horizontalMenu li.action-tab:hover, .buttonsTabs li.action-tab:hover {
+  background: rgba(88, 88, 88, 1);
+}
+
+img.ellipsis-loader {
+  content: url('../images/ellipsis-loader.svg')
+}
+
+.ked_boxed p.box-mini-label {
+  font-style: italic;
+  font-size: 10pt;
+  opacity: 0.5;
+}
+
+.pageHeader .pageHeaderCornerBox {
+  position: absolute;
+  top: 1em;
+  right: 1.5em;
+  z-index: 1000;
+  overflow: hidden;
+}
+
+.pageHeader .pageHeaderCornerBox h5 {
+  color: white;
+  margin: 0.5em 0 0.5em 0;
+}
+
+.pageHeader .pageHeaderCornerBox h5:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.pageHeader .pageHeaderCornerBox p {
+  color: #eee;
+  font-style: italic;
+}
+
+.pageHeader .pageHeaderCornerBox ul {
+  background-color: #fff;
+  border: 1px solid gray;
+}
+
+.pageHeader .pageHeaderCornerBox li {
+  color: black;
+  padding: 4px;
+  margin: 0;
+  list-style: none;
+}
+
+.pageHeader .pageHeaderCornerBox li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.pill.incomplete {
+  background-color: #c36549;
+  padding: 4px 7px;
+  color: #fff;
+  border-radius: 7px;
+  line-height: 10px;
+  font-size: 12px;
+  /* float: right; */
+  margin-left: 11px;
+  /* text-transform: uppercase; */
+}
+.drop-zone {
+  border: 2px dotted #bbb;
+  border-radius: 10px;
+  padding: 50px 25px 25px 25px;
+  margin-bottom: 25px;
+  text-align: center;
+  color: #bbb;
+  box-sizing: border-box;
+  width: 100%;
+  height: 8em;  
+}
+
+textarea.learning-goal-box {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.ked_boxed.taskBox.exercise {
+  background: #ccffbf;
+}
+
+.ked_boxed.taskBox.task, .ked_boxed.taskBox.assignment  {
+  background: #e0f8fa;
+}
+
+.explained-requirement {
+  background-color: #fff;
+  font-style: italic;
+}
+
+.ked_boxed .char-counter-bottom {
+  position: absolute;
+  bottom: 5px;
+  right: 20px;
+  color: #aaa;
+  font-size: 8pt;
+}
+
+.char-counter-bottom.overflowed {
+  color: #c36549;
+  font-weight: bold;
+}
+
+.disabled {
+  opacity: 0.4;
+}
+
+ul.sortable li.draggable:hover {
+  border: dotted 1px;
+  cursor: move;
+}
+li.drag-source, div.drag-source {
+  opacity: 0.7;
+  border: dashed 1px;
+}
+li.drop-target, div.drop-target {
+  background-color: #9999aa;
+  border-radius: 4px;
+  border: dashed 1px;
+}
+
+.wysiwyg-content ol ol, .rich-text-readonly ol ol {
+  padding-left: 2em;
+  list-style-type: lower-latin;
+}
+
+.wysiwyg-content ul ul, .rich-text-readonly ul ul {
+  padding-left: 2em;
+  list-style-type: circle;
+}

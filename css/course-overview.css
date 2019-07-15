@@ -1,0 +1,49 @@
+
+.course-overview table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 14px;
+}
+
+.course-overview td {
+    padding: 5px;
+    border: 1px #cfcfcf solid;
+    vertical-align: top;    
+    margin: 0;
+    padding: 0;
+}
+
+.course-overview th {
+    background: #cfcfcf;
+    border: 1px #a5a5a5 solid;
+    text-align: left;
+    padding: 5px;
+}
+
+.course-overview tr.has-modules td.goals-subject {
+    cursor: pointer;
+}
+  
+.course-overview .goals-term, .course-overview .goals-end {
+    text-align: center;
+}
+
+.course-overview div.course-modules ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.course-overview div.course-modules ul li {
+    margin: 8px 8px 8px 14px;
+}
+
+.course-overview a {
+    color: #404040;
+    text-decoration: underline;
+}
+
+
+
+

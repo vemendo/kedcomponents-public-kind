@@ -1,0 +1,107 @@
+div.course-viewer p.error {
+  color: red;
+}
+
+a.trash {
+  opacity: 0.5;
+}
+
+a.trash:hover {
+  opacity: 1;
+}
+
+a.link-less {
+  text-decoration: none;
+}
+
+table.task-assignments-table {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+div.task-assignment-drop-zone {
+  box-sizing: border-box;
+  width: 100%;
+  height: 8em;
+}
+
+td.urkund-status-col {
+  text-align: center;
+}
+
+table.task-assignments-table td.assignment-date-col {
+  white-space: nowrap;
+}
+
+.urkund-status {
+  width: 24px;
+  height: 24px;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+}
+.urkund-status-submitted {background-image: url("../../../images/urkund/processing.gif");}
+.urkund-status-accepted {background-image: url("../../../images/urkund/processing.gif");}
+.urkund-status-error {background-image: url("../../../images/urkund/varningskylt.gif");}
+.urkund-status-analyzed {background-image: url("../../../images/urkund/analysmini.gif");}
+.urkund-status-accepted:hover:before, .urkund-status-submitted:hover:before {
+  content: "\f021";
+  font-family: FontAwesome;
+}
+.urkund-significance {
+  background-repeat: repeat;
+  height: 100%;
+  font-size: 9pt;
+  margin: 0 auto;
+}
+.urkund-significance-0 {color: #fff; background-image: url("../../../images/urkund/0.gif");}
+.urkund-significance-1 {background-image: url("../../../images/urkund/1.gif");}
+.urkund-significance-2 {background-image: url("../../../images/urkund/2.gif");}
+.urkund-significance-3 {background-image: url("../../../images/urkund/3.gif");}
+.urkund-significance-4 {color: #fff; background-image: url("../../../images/urkund/4.gif");}
+.urkund-significance-5 {color: #fff; background-image: url("../../../images/urkund/5.gif");}
+.urkund-significance-6 {color: #fff; background-image: url("../../../images/urkund/6.gif");}
+.urkund-significance-7 {color: #fff; background-image: url("../../../images/urkund/7.gif");}
+.urkund-significance-8 {color: #fff; background-image: url("../../../images/urkund/8.gif");}
+.urkund-significance-submitted {
+  background-image: url("../../../images/urkund/no_value.gif");
+  background-repeat: no-repeat;
+  width: 22px;
+  height: 22px;
+  padding: 2px 2px 2px 2px;
+  margin: 0 auto;
+}
+.urkund-significance-accepted {
+  background-image: url("../../../images/urkund/pending.gif");
+  background-repeat: no-repeat;
+  width: 22px;
+  height: 22px;
+  padding: 2px 2px 2px 2px;
+  margin: 0 auto;
+}
+.urkund-significance-error {
+  background-image: url("../../../images/urkund/no_value.gif");
+  background-repeat: no-repeat;
+  width: 22px;
+  height: 22px;
+  padding: 2px 2px 2px 2px;
+  margin: 0 auto;
+}
+
+.task-search-result table, .task-search-result table tr, .task-search-result table td,
+.task-search-result table tbody {
+  border: 0;
+  text-align: left;
+  padding: 0 0.4em 0 0.4em;
+}
+
+.task-search-result.fixed {
+  margin-right: 3.5em;
+}
+
+.task-search-result div:focus {
+  outline-style: dotted;
+  outline-color: #17a98b;
+  outline-width: 2px;
+  outline-offset: 2px;
+}
+

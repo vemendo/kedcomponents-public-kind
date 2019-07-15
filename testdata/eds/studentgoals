@@ -1,0 +1,259 @@
+{
+    "studentGoals": [
+        {
+            "courseUnitName": "Hem- och konsumentkunskap",
+            "finalGoalGrade": "B",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "C"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "C"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Historia",
+            "finalGoalGrade": "C",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "D"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "C"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Fysik",
+            "finalGoalGrade": "C",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "D"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "C"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Geografi",
+            "finalGoalGrade": "C",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "D"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "D"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Matematik",
+            "finalGoalGrade": "C",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "C"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "C"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Samhällskunskap",
+            "finalGoalGrade": "B",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "C"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "D"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Engelska",
+            "finalGoalGrade": "A",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "A"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "B"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Religionskunskap",
+            "finalGoalGrade": "B",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "C"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "C"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Idrott och hälsa",
+            "finalGoalGrade": "C",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "D"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "D"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Biologi",
+            "finalGoalGrade": "D",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "C"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "C"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Svenska",
+            "finalGoalGrade": "C",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "C"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "C"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Teknik",
+            "finalGoalGrade": "C",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "D"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "C"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Bild",
+            "finalGoalGrade": "B",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "C"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "C"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Spanska, språkval",
+            "finalGoalGrade": "C",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "D"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": ""
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Kemi",
+            "finalGoalGrade": "C",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "D"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "B"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Slöjd",
+            "finalGoalGrade": "C",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "D"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "B"
+                }
+            ]
+        },
+        {
+            "courseUnitName": "Musik",
+            "finalGoalGrade": "B",
+            "strategyText": "",
+            "periodGoals": [
+                {
+                    "periodName": "VT2017",
+                    "gradeName": "C"
+                },
+                {
+                    "periodName": "HT2016",
+                    "gradeName": "D"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+div.course-builder {
+    width: 100%;
+}
+
+div.course-builder.status {
+    padding-left: 2px;
+    margin-left: -13px;
+    border-left-width: 11px;
+    border-left-style: solid;
+}
+
+div.course-builder.status.unsaved {
+    border-left-color: #f8f868;
+}
+
+div.course-builder.status.error {
+    border-left-color: red;
+}
+
+.drop-zone {
+    border: 2px dotted #bbb;
+    border-radius: 10px;
+    padding: 50px 25px 25px 25px;
+    margin-bottom: 25px;
+    text-align: center;
+    color: #bbb;
+    box-sizing: border-box;
+    width: 100%;
+    height: 8em;  
+}
+
+.marked-area {
+    border: 2px dotted #5a5;
+    border-radius: 3px;
+}
+
+.entity-list .complete {
+    color: green;
+    font-weight: bold;
+}
+
+.entity-list .incomplete {
+    font-style: italic;
+}
+
+.entity-list .selected a {
+    border: 1px dashed #bbb;
+    cursor: default;
+}
+
+.error-success-feedback {
+    top: 200px;
+    font-weight: bold;
+}
+.error-success-feedback .error {
+    background-color: rgba(200, 100, 100, 0.9);
+    padding: 5px;
+}
+
+.error-success-feedback .info {
+    background-color: rgba(100, 200, 100, 0.9);
+    padding: 5px;
+}
+
+
+
+        /* Below is pasted from inline styles in HTML poc */
+        .inputTextBox {
+            width: 100%;
+            background: #fff;
+            border: 1px #ddd solid;
+            border-radius: 5px;
+            padding: 0.5em;
+            overflow: auto;
+        }
+
+        .inputTextLarge {
+        height: 10em;
+        }
+
+        .inputTextSmall {
+        height: 2em;
+        }
+
+        p.subHeader {
+        margin-top: -1em;
+        margin-bottom: 1em;
+        font-style: italic;
+        }
+
+        .spaced>div {
+        padding: 5px;
+        }
+
+        .lines select,
+        .spaced select {
+        margin-bottom: 0 !important;
+        }
+
+        .contentList,
+        .abilityList {
+        padding: 0.5em;
+        }
+
+
+        .ked_boxed .openHeader {
+        padding-top: 0.4em;
+        }
+        /* /End-of pasted from inline styles */
+
+.side-dialog {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 580px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #222;
+    box-shadow: #222 8px 2;
+    padding: 12px;
+    max-height: 100%;
+    overflow-y: auto;
+}
+
+.side-dialog-option {
+    width: 166px;
+    float: left;
+    padding: 2px;
+    margin: 4px;
+    border-radius: 4px;
+    border: 3px solid #ddd;
+}
+
+.side-dialog-option:not(.choosen):not(.covered) {
+    border: 3px dotted #ddd;
+}
+
+.side-dialog-option:not(.choosen):hover {
+    border: 3px solid #aaa;
+    cursor: pointer;
+}
+
+.side-dialog-option.choosen {
+    opacity: 0.5;
+    font-style: italic;
+    border: 3px solid #ddd;
+}
+
+.side-dialog-option.covered {
+    background-color: #dfd;
+}
+/*.side-dialog-option.covered:not(.choosen) {
+    opacity: 0.7;
+    font-style: italic;
+}*/
+
+.removeItem.upperRight {
+    position: absolute;
+    top: -1px;
+    right: -11px;
+}
+
+div.modal-page-wrap {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.modal-page {
+    position: relative;
+    background-color: #fff;
+    padding: 5px 20px 20px 20px;
+    margin-bottom: 2em;
+    max-width: 90%;
+    max-height: 90%;
+    overflow-y: auto;
+    border: 3px solid #3dbca2;
+    border-radius: 8px;
+    box-shadow: 0 0 80px 10px #666;
+    width: auto !important;
+}
+
+div.darken {
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0.7;
+    background-color: #888;
+    width: 100vw;
+    height: 100vh;
+}
+
+div.modal-page .removeItem:before {
+    color: #3dbca2;
+}
+
+div.modal-page .removeItem:hover:before {
+    font-weight: bold;
+}
+
+div.modal-page .removeItem {
+    position: absolute;
+    top: 5px;
+    right: 3px;
+}
+
+.warning-box {
+    border: 1px solid #ccc;
+    padding: 0.5em;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    border-radius: 5px;
+}
+
+.editable-school-list table td p {
+    padding: 0 16px 0 16px;
+    margin: 0;
+}
+
+.teachers-list input {
+    padding: 0;
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    width: auto;
+    min-width: 0;
+}
+
+.wysiwyg {
+  border-radius: 5px;
+  box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1), 0 0 0 1px rgba(10, 10, 10, 0.1);
+  box-sizing: border-box;
+  width: 100%; 
+}
+
+.wysiwyg-actionbar {
+  background-color: #FFF;
+  border: 1px solid #eee;
+  border-bottom: 1px solid rgba(10, 10, 10, 0.1);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.wysiwyg-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  height: 30px;
+  outline: 0;
+  width: 30px;
+}
+
+.wysiwyg-content {
+  background-color: #FFF;
+  box-sizing: border-box;
+  max-height: 500px;
+  outline: 0;
+  overflow-y: auto;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #eee;
+}
+
+.wysiwyg-content > div.editor {
+    min-height: 200px;
+}
+
+.wysiwyg-content :focus {
+    outline:none;
+}
+
+.wysiwyg-focusrect {
+    box-sizing: border-box;
+    border: 2px dotted rgba(60,60,60,0.5)
+}
+
+.wysiwyg-focuspoint {
+    background-color: rgba(60,60,60,0.5);
+    width: 8px;
+    height: 8px;
+    margin: -4px;
+}
+
+.wysiwyg-focuspoint.fpul, .wysiwyg-focuspoint.fplr {
+    cursor: nwse-resize;
+}
+
+.wysiwyg-focuspoint.fpur, .wysiwyg-focuspoint.fpll {
+    cursor: nesw-resize;
+}
+
+/* Changes after 2017-08-31: */
+
+.task-search-result.fixed {
+    position: fixed;
+    height: 80%;
+    overflow-y: auto;
+    padding-right: 2em;
+}
+
+/*div.modal-page {
+    overflow-y: inherit;
+}
+
+div.modal-page-scroller {
+    overflow-y: auto;
+    max-height: 100%;
+}
+*/

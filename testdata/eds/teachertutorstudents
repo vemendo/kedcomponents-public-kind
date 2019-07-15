@@ -1,0 +1,8 @@
+{
+  "students": [
+    {"firstName": "David", "lastName": "Fahlander", "email": "david.fahlander@vemendo.se"},
+    {"firstName": "Daniel", "lastName": "Fablunder", "email": "daniel.fablunder@kunskapsskolan.se"},
+    {"firstName": "Dana", "lastName": "Gunnarsson", "email": "dana.gunnarsson@edu.kunskapsskolan.se"},
+    {"firstName": "Elev", "lastName": "Vemendo", "email": "vemendo.elev@kedschools.com"}
+  ]
+}

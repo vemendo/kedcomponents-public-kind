@@ -1,0 +1,163 @@
+table#termPlanTable {
+    width: 100%;
+    font-family: "Ubuntu", sans-serif !important;
+    font-size: 14px !important;
+}
+
+table#termPlanTable td {
+    padding: 5px;
+    border: 1px #cfcfcf solid;
+   vertical-align: top;
+}
+
+table#termPlanTable th {
+    background: #cfcfcf;
+    border: 1px #a5a5a5 solid;
+    text-align: left;
+    padding: 5px;
+}
+
+
+.termPlanStepData {
+    text-align: center !important;
+    width: 33px;
+}
+
+td.termPlanStepData {
+    /* text-align: center !important; */
+    cursor: pointer;
+}
+   
+tr.tableOdd {
+    background: #f8f8f8;
+}
+   
+tr.endRow {
+    background: #e3e3e3;
+}
+   
+tr.currentWeek td {
+    background: rgba(255, 255, 0, 0.2);
+}
+   
+   .termPlanWeekData {
+    width: 100px;
+}
+
+.termPlanCourseData, .termPlanPrestData {
+    width: 120px;
+}
+   
+td.termPlanCommentData {
+    height: 19px;
+    overflow: hidden;
+    display: block;
+    border-left: none !important;
+    border-bottom: none !important;
+}
+   
+   .completedStep {
+    background: rgba(0, 255, 0, 0.12) !important;
+}
+   
+.planStep {
+    display: inline;
+    float: left;
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+
+.planCheck {
+    float: left;
+    margin-top: 4px;
+    margin-right: 8px;
+}
+
+#weekPlanner {
+    border: 1px #cfcfcf solid;
+    padding: 10px;
+    background: #fff;
+    /*font-family: "Ubuntu", sans-serif !important;
+   font-size: 14px !important;*/
+}
+   
+.planTitle {
+    font-weight: bold;
+    margin: 15px 0px 0px 0px;
+}
+
+.planGoalContainer {
+    margin: 15px 0px 0px 0px;
+    border: 1px #cfcfcf solid;
+    padding: 5px 0 0 0;
+    background: #e3e3e3;
+    border-radius: 4px;
+}
+
+.planOpenClose {
+    float: right;
+    margin-top: -17px;
+}
+
+.planTasks {
+    padding: 10px;
+    background: #ffffff;
+}
+
+.planGoalHeader {
+    padding: 0 9px 6px 0;
+    cursor: pointer;
+}
+
+.planTitle {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 13px 0px 0px 0px;
+    padding-bottom: 4px;
+    /* color: #978d8d; */
+    border-bottom: 2px #cfcfcf solid;
+}
+   
+
+table#goalsTable {
+    width: 100%;
+    font-family: "Ubuntu", sans-serif !important;
+    font-size: 14px !important;
+}
+
+table#goalsTable td {
+    padding: 5px;
+    border: 1px #cfcfcf solid;
+   vertical-align: top;
+}
+
+table#goalsTable th {
+    background: #cfcfcf;
+    border: 1px #a5a5a5 solid;
+    text-align: left;
+    padding: 5px;
+}
+   
+.goalsTerm, .goalsEnd {
+    text-align: center;
+}
+   
+.planGoalContainer {
+    margin: 15px 0px 0px 0px;
+    border: 1px #cfcfcf solid;
+    padding: 5px 0 0 0;
+    background: #e3e3e3;
+    border-radius: 4px;
+}
+
+.markedItem:before {
+    display: inline-block;
+    content: "\f00d";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 1.25em;
+    font-weight: normal;
+    margin-left: .02em;
+    margin-top: 0;
+    color: #64bd36;
+}

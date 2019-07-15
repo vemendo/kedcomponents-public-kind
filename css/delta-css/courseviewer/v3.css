@@ -1,0 +1,17 @@
+.weekPlanner .weekSelect p {
+  font-style: italic;
+}
+.weekPlanner.currentWeek .weekSelect p {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.confirmation-box {
+  transition: max-height 0.15s;
+  overflow: hidden;
+  max-height: 0;
+}
+
+.confirmation-box.visible {
+  max-height: 70px;
+}

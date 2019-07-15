@@ -1,0 +1,11 @@
+.pill.incomplete {
+  background-color: #c36549;
+  padding: 4px 7px;
+  color: #fff;
+  border-radius: 7px;
+  line-height: 10px;
+  font-size: 12px;
+  /* float: right; */
+  margin-left: 11px;
+  /* text-transform: uppercase; */
+}

@@ -1,0 +1,351 @@
+body {
+  font-size: 1em !important;
+  font-family: circular-book,arial,sans-serif;
+  }
+     
+     /* content cleaning */
+     
+       .taskContainer.odd-even>div:nth-child(odd) {
+        background: #eeeeee !important;
+     }
+  
+     .hideItem {
+        cursor: pointer;
+        height: 1em;
+        width: 1.4em;
+     }
+  
+     .hideItem:before {
+        display: inline-block;
+        content: "\f070";
+        font: normal normal normal 14px/1 FontAwesome;
+        font-size: 1.25em;
+        font-weight: normal;
+        margin-left: 0.02em;
+        margin-top: 0;
+        color: #ce786e;
+     }
+  
+     
+      .showItem {
+        cursor: pointer;
+        height: 1em;
+        width: 1.4em;
+     }
+  
+     .showItem:before {
+        display: inline-block;
+        content: "\f06e";
+        font: normal normal normal 14px/1 FontAwesome;
+        font-size: 1.25em;
+        font-weight: normal;
+        margin-left: 0.02em;
+        margin-top: 0;
+        color: #5c9655;
+     }
+     
+     
+     .schoolCourse {
+        padding: 0.3em;
+        display: grid;
+        padding-bottom: none;
+     }
+  
+     .schoolCourse a {
+        font-family: circular-bold, arial, sans-serif;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 1em;
+        color: #000000 !important;
+        line-height: 1;
+        text-decoration: none;
+     }
+  
+     .studentCourse a {
+        font-family: circular-bold, arial, sans-serif;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 1em;
+        color: #000000 !important;
+        line-height: 1;
+        text-decoration: none;
+     }
+  
+     .studentCourse {
+        padding: 0.3em;
+        display: grid;
+        padding-bottom: 1em;
+     }
+  
+     .studentCourse p {
+        line-height: 1.2em;
+        margin-bottom: 0.5em;
+        margin-top: 0.3em;
+     }
+     
+  
+  .studentCourse p.small {
+      color: #565656;
+      font-size: 0.8em;
+      line-height: 1em;
+      padding: 0;
+      margin: 0.4em 0 0 0;
+  }
+     
+  h1 + br, h2 + br, h3 + br, h4 + br, h5 + br {
+      display: none;
+  }
+     
+  .pagecontent li {
+      margin-left: 2em;
+  }
+     
+  .horizontalMenu li {
+      margin-left: 0em;
+  }
+     
+  .sv-old-text-portlet {
+      margin-bottom: 1em;
+  }
+     
+  .sv-text-portlet-content li, .sv-text-portlet-cloned-content li {
+      margin-left: 2em;
+  }
+     
+  .cbox_head, .cbox_body, .kbox_head, .kbox_body {
+     display:none;
+  }
+     
+  .sv-old-text-portlet p:last-child, .sv-use-margins .normal:last-child, .sv-old-text-portlet .normal:last-child { 
+      margin-bottom: 2em;
+  }
+    
+  .sv-column-5, .sv-column-7 {
+      margin-top: 1em;
+      padding: 0 2em;
+  }
+  
+  .pagecontent {
+      padding-bottom: 2em;
+      margin-top: -1em;
+      margin-bottom: 2em;
+  }
+     
+  .sv-portlet p {
+     margin-bottom:1em;
+  }
+  
+     .openHeader p {
+        margin-bottom:0em;
+     }
+     
+     
+  @media (max-width:767px) {
+  
+  .pageHeader {
+     min-height: 8em !important;
+  }    
+  
+  .pageHeader h1 {
+      font-size: 1.8em;
+      padding: 0 0.2em;
+  }
+  
+  .btn-large {
+      display: block;
+  }
+  
+  .sv-layout.sv-skip-spacer.sv-column-8 {
+      padding: 0 1em;
+  }
+  
+  }
+     
+     @media print { 
+  
+  .sv-column-7 {
+      width: 100% !important;
+     min-width:100% !important;
+     
+  }
+        
+  
+        
+  
+  .sv-column-5, #readspeaker_button1 {
+    display:none;
+  }
+        
+        
+  }
+     
+     
+     /* end content cleaning */
+     
+     
+     
+  .sv-use-margins .normal {
+      margin-top: 0em
+  }
+  .sv-use-margins .normal {
+      margin-bottom: 1em
+  }
+  .sv-use-margins .normal:first-child, .sv-old-text-portlet .normal.sv-first-child {
+      margin-top: 0em
+  }
+  .sv-use-margins .normal.sv-last-child, .sv-old-text-portlet .normal.sv-last-child {
+      margin-bottom: 0em
+  }
+  .sv-use-margins .normal:last-child, .sv-old-text-portlet .normal:last-child {
+      margin-bottom: 0em
+  }
+  h1, .h1 {
+      font-family: circular-bold, arial, sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      font-size: 2em;
+      color: #000000;
+      line-height: 1.25em;
+  }
+  a.h1, h1 a, .h1 a {
+      color: #000000;
+      text-decoration: none;
+  }
+  h2, .h2 {
+      font-family: circular-bold, arial, sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      font-size: 1.625em;
+      color: #000000;
+      line-height: 1.15384615;
+  }
+  a.h2, h2 a, .h2 a {
+      color: #000000;
+      text-decoration: none;
+  }
+  h3, .h3 {
+      font-family: circular-bold, arial, sans-serif;
+      , sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      font-size: 1.375em;
+      color: #000000;
+      line-height: 1.13636364;
+  }
+  a.h3, h3 a, .h3 a {
+      color: #000000;
+      text-decoration: none;
+  }
+  h4, .h4 {
+      font-family: circular-bold, arial, sans-serif;
+      , sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      font-size: 1.125em;
+      color: #000000;
+      line-height: 1.11111111;
+  }
+  a.h4, h4 a, .h4 a {
+      color: #000000;
+      text-decoration: underline;
+  }
+  h5, .h5 {
+      font-family: circular-bold, arial, sans-serif;
+      , sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      font-size: 1em;
+      color: #000000;
+      line-height: 1;
+  }
+  a.h5, h5 a, .h5 a {
+      color: #000000;
+      text-decoration: none;
+  }
+  .sv-use-margins .h5, .sv-use-margins h5 {
+      margin-top: 1em
+  }
+  .sv-use-margins .h5, .sv-use-margins h5 {
+      margin-bottom: 1.0em
+  }
+  .sv-use-margins .h5:first-child, .sv-old-text-portlet .h5.sv-first-child, .sv-use-margins h5:first-child, .sv-old-text-portlet h5.sv-first-child {
+      margin-top: 0.0em
+  }
+  .sv-use-margins .h5.sv-last-child, .sv-old-text-portlet .h5.sv-last-child {
+      margin-bottom: 0.0em
+  }
+  .sv-use-margins .h5:last-child, .sv-old-text-portlet .h5:last-child {
+      margin-bottom: 0.0em
+  }
+  .sv-use-margins h5.sv-last-child, .sv-old-text-portlet h5.sv-last-child {
+      margin-bottom: 0.0em
+  }
+  .sv-use-margins h5:last-child, .sv-old-text-portlet h5:last-child {
+      margin-bottom: 0.0em
+  }
+  .liten {
+      font-family: arial, sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      font-size: 10px;
+      color: #333333;
+      line-height: normal;
+  }
+  a.liten, .liten a {
+      color: #333333;
+      text-decoration: underline;
+  }
+  a.liten:link, .liten a:link, a.liten:visited, .liten a:visited, a.liten:hover, .liten a:hover, a.liten:active, .liten a:active {
+      color: #083eb5;
+      text-decoration: underline;
+  }
+  .sv-use-margins .liten {
+      margin-top: 0em
+  }
+  .sv-use-margins .liten {
+      margin-bottom: 1em
+  }
+  .sv-use-margins .liten:first-child, .sv-old-text-portlet .liten.sv-first-child {
+      margin-top: 0em
+  }
+  .sv-use-margins .liten.sv-last-child, .sv-old-text-portlet .liten.sv-last-child {
+      margin-bottom: 0em
+  }
+  .sv-use-margins .liten:last-child, .sv-old-text-portlet .liten:last-child {
+      margin-bottom: 0em
+  }
+  .meny {
+      font-family: helvetica, sans-serif;
+      font-weight: bold;
+      font-style: normal;
+      font-size: 100%;
+      color: #333333;
+      line-height: 1em;
+  }
+  a.meny, .meny a, a.meny:hover, .meny a:hover, a.meny:active, .meny a:active {
+      color: #333333;
+      text-decoration: none;
+  }
+  .meny {
+      padding: 2px;
+      display: block;
+      -webkit-border-radius: 3px;
+      -moz-border-radius: 3px;
+      border-radius: 3px
+  }
+  .sv-use-margins .meny {
+      margin-top: 0.0em
+  }
+  .sv-use-margins .meny {
+      margin-bottom: 1.0em
+  }
+  .sv-use-margins .meny:first-child, .sv-old-text-portlet .meny.sv-first-child {
+      margin-top: 0.0em
+  }
+  .sv-use-margins .meny.sv-last-child, .sv-old-text-portlet .meny.sv-last-child {
+      margin-bottom: 0.0em
+  }
+  .sv-use-margins .meny:last-child, .sv-old-text-portlet .meny:last-child {
+      margin-bottom: 0.0em
+  }
+  

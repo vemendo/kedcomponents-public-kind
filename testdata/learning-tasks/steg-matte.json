@@ -1,0 +1,28 @@
+{
+  "moduleName": "Steg 3",
+  "subject": {
+    "name": "Matematik 1c",
+    "course": {
+      "name": "Matematik 1c",
+      "url": "/steg/matematik1c.4.10fd312e12d506534f780009937.html"
+    }
+  },
+  "commonTasks": [
+    {
+      "name": "Test E",
+      "url": "https://kg.kunskapsporten.se/download/18.2190e29e12ffaa619c280009970/1425120543416/Ma1bc_Delsteg3AlgebraTestE.pdf",
+      "id": "6.2190e29e12ffaa619c280009981"
+    },
+    {
+      "name": "Test C",
+      "url": "https://kg.kunskapsporten.se/download/18.2190e29e12ffaa619c280009968/1425120543424/Ma1bc_Delsteg3AlgebraTestC.pdf",
+      "id": "6.2190e29e12ffaa619c280009982"
+    },
+    {
+      "name": "Test A",
+      "url": "https://kg.kunskapsporten.se/download/18.2190e29e12ffaa619c280009966/1425120543809/Ma1bc_Delsteg3AlgebraTestA.pdf",
+      "id": "6.2190e29e12ffaa619c280009983"
+    }
+  ],
+  "learningGoals": []
+}

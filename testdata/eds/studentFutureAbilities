@@ -1,0 +1,904 @@
+{
+  "studentFutureAbilities": [
+    {
+      "abilityId": 1,
+      "abilityName": "Lära att lära",
+      "capabilities": [
+        {
+          "capabilityId": 1,
+          "capabilityName": "Strategi",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 1,
+          "capabilityName": "Strategi",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 1,
+          "capabilityName": "Strategi",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 1,
+          "capabilityName": "Strategi",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 1,
+          "capabilityName": "Strategi",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 1,
+          "capabilityName": "Strategi",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 2,
+          "capabilityName": "Reflektion",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 2,
+          "capabilityName": "Reflektion",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 2,
+          "capabilityName": "Reflektion",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 2,
+          "capabilityName": "Reflektion",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 2,
+          "capabilityName": "Reflektion",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 2,
+          "capabilityName": "Reflektion",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": true
+        },
+        {
+          "capabilityId": 3,
+          "capabilityName": "Självkännedom",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 3,
+          "capabilityName": "Självkännedom",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 3,
+          "capabilityName": "Självkännedom",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 3,
+          "capabilityName": "Självkännedom",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 3,
+          "capabilityName": "Självkännedom",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 3,
+          "capabilityName": "Självkännedom",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        }
+      ]
+    },
+    {
+      "abilityId": 2,
+      "abilityName": "Samarbete",
+      "capabilities": [
+        {
+          "capabilityId": 4,
+          "capabilityName": "Kommunikation",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 4,
+          "capabilityName": "Kommunikation",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 4,
+          "capabilityName": "Kommunikation",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 4,
+          "capabilityName": "Kommunikation",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 4,
+          "capabilityName": "Kommunikation",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 4,
+          "capabilityName": "Kommunikation",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": true
+        },
+        {
+          "capabilityId": 5,
+          "capabilityName": "Ledning",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 5,
+          "capabilityName": "Ledning",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 5,
+          "capabilityName": "Ledning",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 5,
+          "capabilityName": "Ledning",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 5,
+          "capabilityName": "Ledning",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 5,
+          "capabilityName": "Ledning",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": true,
+          "vtHasValue": true
+        },
+        {
+          "capabilityId": 6,
+          "capabilityName": "Grupparbete",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 6,
+          "capabilityName": "Grupparbete",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 6,
+          "capabilityName": "Grupparbete",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 6,
+          "capabilityName": "Grupparbete",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 6,
+          "capabilityName": "Grupparbete",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 6,
+          "capabilityName": "Grupparbete",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        }
+      ]
+    },
+    {
+      "abilityId": 3,
+      "abilityName": "Agera globalt",
+      "capabilities": [
+        {
+          "capabilityId": 7,
+          "capabilityName": "Hållbarhet",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 7,
+          "capabilityName": "Hållbarhet",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 7,
+          "capabilityName": "Hållbarhet",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 7,
+          "capabilityName": "Hållbarhet",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 7,
+          "capabilityName": "Hållbarhet",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 7,
+          "capabilityName": "Hållbarhet",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 8,
+          "capabilityName": "Öppenhet",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 8,
+          "capabilityName": "Öppenhet",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 8,
+          "capabilityName": "Öppenhet",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 8,
+          "capabilityName": "Öppenhet",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 8,
+          "capabilityName": "Öppenhet",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 8,
+          "capabilityName": "Öppenhet",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 9,
+          "capabilityName": "Perspektivbyte",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 9,
+          "capabilityName": "Perspektivbyte",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 9,
+          "capabilityName": "Perspektivbyte",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 9,
+          "capabilityName": "Perspektivbyte",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 9,
+          "capabilityName": "Perspektivbyte",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 9,
+          "capabilityName": "Perspektivbyte",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": true
+        }
+      ]
+    },
+    {
+      "abilityId": 4,
+      "abilityName": "Handlingskraft",
+      "capabilities": [
+        {
+          "capabilityId": 10,
+          "capabilityName": "Planering",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 10,
+          "capabilityName": "Planering",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 10,
+          "capabilityName": "Planering",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 10,
+          "capabilityName": "Planering",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 10,
+          "capabilityName": "Planering",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 10,
+          "capabilityName": "Planering",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": true
+        },
+        {
+          "capabilityId": 11,
+          "capabilityName": "Genomförande",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 11,
+          "capabilityName": "Genomförande",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 11,
+          "capabilityName": "Genomförande",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 11,
+          "capabilityName": "Genomförande",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 11,
+          "capabilityName": "Genomförande",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 11,
+          "capabilityName": "Genomförande",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 12,
+          "capabilityName": "Ansvarstagande",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 12,
+          "capabilityName": "Ansvarstagande",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 12,
+          "capabilityName": "Ansvarstagande",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 12,
+          "capabilityName": "Ansvarstagande",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 12,
+          "capabilityName": "Ansvarstagande",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 12,
+          "capabilityName": "Ansvarstagande",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        }
+      ]
+    },
+    {
+      "abilityId": 5,
+      "abilityName": "Vara innovativ",
+      "capabilities": [
+        {
+          "capabilityId": 13,
+          "capabilityName": "Nyfikenhet",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 13,
+          "capabilityName": "Nyfikenhet",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 13,
+          "capabilityName": "Nyfikenhet",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 13,
+          "capabilityName": "Nyfikenhet",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 13,
+          "capabilityName": "Nyfikenhet",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 13,
+          "capabilityName": "Nyfikenhet",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 14,
+          "capabilityName": "Kreativitet",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 14,
+          "capabilityName": "Kreativitet",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 14,
+          "capabilityName": "Kreativitet",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 14,
+          "capabilityName": "Kreativitet",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 14,
+          "capabilityName": "Kreativitet",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 14,
+          "capabilityName": "Kreativitet",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 15,
+          "capabilityName": "Problemlösning",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 15,
+          "capabilityName": "Problemlösning",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 15,
+          "capabilityName": "Problemlösning",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 15,
+          "capabilityName": "Problemlösning",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 15,
+          "capabilityName": "Problemlösning",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 15,
+          "capabilityName": "Problemlösning",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        }
+      ]
+    },
+    {
+      "abilityId": 6,
+      "abilityName": "Leva digitalt",
+      "capabilities": [
+        {
+          "capabilityId": 16,
+          "capabilityName": "Digital förståelse",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 16,
+          "capabilityName": "Digital förståelse",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 16,
+          "capabilityName": "Digital förståelse",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 16,
+          "capabilityName": "Digital förståelse",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 16,
+          "capabilityName": "Digital förståelse",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 16,
+          "capabilityName": "Digital förståelse",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 17,
+          "capabilityName": "Digitalt användande",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 17,
+          "capabilityName": "Digitalt användande",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 17,
+          "capabilityName": "Digitalt användande",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 17,
+          "capabilityName": "Digitalt användande",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 17,
+          "capabilityName": "Digitalt användande",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 17,
+          "capabilityName": "Digitalt användande",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": true
+        },
+        {
+          "capabilityId": 18,
+          "capabilityName": "Källkritik",
+          "formId": "9472c740-d407-4f73-ae0b-f6e514fdf73e",
+          "formName": "Åk 4",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 18,
+          "capabilityName": "Källkritik",
+          "formId": "44770e0b-ec22-47bd-8aa6-06e28bd84555",
+          "formName": "Åk 5",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 18,
+          "capabilityName": "Källkritik",
+          "formId": "6a767606-0de0-4041-aca1-3f4daeee8b3f",
+          "formName": "Åk 6",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 18,
+          "capabilityName": "Källkritik",
+          "formId": "55ffc4e3-72c7-4c00-9586-f9fcaf1cf317",
+          "formName": "Åk 7",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 18,
+          "capabilityName": "Källkritik",
+          "formId": "cc925a2e-cfca-4609-bc96-09cd13b41fae",
+          "formName": "Åk 8",
+          "htHasValue": false,
+          "vtHasValue": false
+        },
+        {
+          "capabilityId": 18,
+          "capabilityName": "Källkritik",
+          "formId": "b7b1c07a-a76f-4b89-8da2-e298039b411e",
+          "formName": "Åk 9",
+          "htHasValue": false,
+          "vtHasValue": false
+        }
+      ]
+    }
+  ]
+}

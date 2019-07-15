@@ -1,0 +1,109 @@
+{
+  "moduleName": "Steg 3",
+  "subject": {
+    "name": "Spanska 1",
+    "course": {
+      "name": "Spanska 1",
+      "url": "/steg/spanska1.4.10fd312e12d506534f7800010927.html"
+    }
+  },
+  "commonTasks": [
+    {
+      "name": "Facit",
+      "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/facit.4.2c212145130af0134548000448.html",
+      "id": "4.2c212145130af0134548000448"
+    }
+  ],
+  "learningGoals": [
+    {
+      "name": "Ordövningar",
+      "tasks": [
+        {
+          "name": "¿Qué hora es? / Vad är klockan?",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/ordovningar/quehoraesvadarklockan.4.2c212145130af0134548000231.html",
+          "id": "4.2c212145130af0134548000231"
+        },
+        {
+          "name": "¿A qué hora? / Hur dags?",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/ordovningar/aquehorahurdags.4.2c212145130af0134548000240.html",
+          "id": "4.2c212145130af0134548000240"
+        },
+        {
+          "name": "¿Qué tal tu semana? / Hur är din vecka?",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/ordovningar/quetaltusemanahurardinvecka.4.2c212145130af0134548000248.html",
+          "id": "4.2c212145130af0134548000248"
+        },
+        {
+          "name": "Una cruzapalabras: En el instituto",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/ordovningar/unacruzapalabrasenelinstituto.4.2c212145130af0134548000259.html",
+          "id": "4.2c212145130af0134548000259"
+        }
+      ]
+    },
+    {
+      "name": "Kommunikationsövningar",
+      "tasks": [
+        {
+          "name": "¿Cuál es tu asignatura favorita?",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/kommunikationsovningar/cualestuasignaturafavorita.4.2c212145130af0134548000269.html",
+          "id": "4.2c212145130af0134548000269"
+        },
+        {
+          "name": "¿Qué vas a hacer?",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/kommunikationsovningar/quevasahacer.4.2c212145130af0134548000278.html",
+          "id": "4.2c212145130af0134548000278"
+        },
+        {
+          "name": "¿Qué tal tu semana?",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/kommunikationsovningar/quetaltusemana.4.2c212145130af0134548000297.html",
+          "id": "4.2c212145130af0134548000297"
+        },
+        {
+          "name": "Una entrevista",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/kommunikationsovningar/unaentrevista.4.2c212145130af0134548000304.html",
+          "id": "4.2c212145130af0134548000304"
+        }
+      ]
+    },
+    {
+      "name": "Grammatikövningar",
+      "tasks": [
+        {
+          "name": "Arbeta med grammatik, ord och fraser",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/grammatikovningar/arbetamedgrammatikordochfraser.4.28e6aae315d0270d4c7b7fb9.html",
+          "id": "4.28e6aae315d0270d4c7b7fb9"
+        },
+        {
+          "name": "Verbet ir i presens",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/grammatikovningar/verbetiripresens.4.2c212145130af0134548000331.html",
+          "id": "4.2c212145130af0134548000331"
+        },
+        {
+          "name": "Futurum: el futuro",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/grammatikovningar/futurumelfuturo.4.2c212145130af0134548000343.html",
+          "id": "4.2c212145130af0134548000343"
+        },
+        {
+          "name": "Översätt: el futuro",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/grammatikovningar/oversattelfuturo.4.2c212145130af0134548000395.html",
+          "id": "4.2c212145130af0134548000395"
+        },
+        {
+          "name": "Me gusta(n)/Me encanta(n)/Me interesa(n)",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/grammatikovningar/megustanmeencantanmeinteresan.4.2c212145130af0134548000412.html",
+          "id": "4.2c212145130af0134548000412"
+        }
+      ]
+    },
+    {
+      "name": "Skrivövningar",
+      "tasks": [
+        {
+          "name": "Skrivövning",
+          "url": "https://kg.kunskapsporten.se/steg/spanska1/block1/steg3/uppgifter/skrivovningar/skrivovning.4.2c212145130af013454800013284.html",
+          "id": "4.2c212145130af013454800013284"
+        }
+      ]
+    }
+  ]
+}

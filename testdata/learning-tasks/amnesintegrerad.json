@@ -1,0 +1,48 @@
+{
+  "moduleName": "Historia",
+  "subject": {
+    "name": "Historia",
+    "course": {
+      "name": "T1 - Makt och vanmakt",
+      "url": "/kurser/amnesintegrerade/t1maktochvanmakt.19.25bc1329136cb441eae80001591.html"
+    }
+  },
+  "commonTasks": [
+    {
+      "name": "Ideologiuppgift",
+      "url": "https://kg.kunskapsporten.se/kurser/amnesintegrerade/t1maktochvanmakt/forberedelse/historia/uppgifter/ideologiuppgift.4.25bc1329136cb441eae80001634.html",
+      "id": "4.25bc1329136cb441eae80001634"
+    },
+    {
+      "name": "Instuderingsfrågor",
+      "url": "https://kg.kunskapsporten.se/kurser/amnesintegrerade/t1maktochvanmakt/forberedelse/historia/uppgifter/instuderingsfragor.4.25bc1329136cb441eae80001686.html",
+      "id": "4.25bc1329136cb441eae80001686"
+    },
+    {
+      "name": "Källkritik - Göteholm",
+      "url": "https://kg.kunskapsporten.se/kurser/amnesintegrerade/t1maktochvanmakt/forberedelse/historia/uppgifter/kallkritikgoteholm.4.25bc1329136cb441eae80001693.html",
+      "id": "4.25bc1329136cb441eae80001693"
+    },
+    {
+      "name": "Källkritik - Potatisupproret",
+      "url": "https://kg.kunskapsporten.se/kurser/amnesintegrerade/t1maktochvanmakt/forberedelse/historia/uppgifter/kallkritikpotatisupproret.4.25bc1329136cb441eae80001741.html",
+      "id": "4.25bc1329136cb441eae80001741"
+    },
+    {
+      "name": "Källkritik - Solvillan",
+      "url": "https://kg.kunskapsporten.se/kurser/amnesintegrerade/t1maktochvanmakt/forberedelse/historia/uppgifter/kallkritiksolvillan.4.25bc1329136cb441eae80001807.html",
+      "id": "4.25bc1329136cb441eae80001807"
+    },
+    {
+      "name": "Vem ska ta beslutet?",
+      "url": "https://kg.kunskapsporten.se/kurser/amnesintegrerade/t1maktochvanmakt/forberedelse/historia/uppgifter/vemskatabeslutet.4.25bc1329136cb441eae80001873.html",
+      "id": "4.25bc1329136cb441eae80001873"
+    },
+    {
+      "name": "Övertygelse eller maktmedel?",
+      "url": "https://kg.kunskapsporten.se/kurser/amnesintegrerade/t1maktochvanmakt/forberedelse/historia/uppgifter/overtygelseellermaktmedel.4.25bc1329136cb441eae80001900.html",
+      "id": "4.25bc1329136cb441eae80001900"
+    }
+  ],
+  "learningGoals": []
+}

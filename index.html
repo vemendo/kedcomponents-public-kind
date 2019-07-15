@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- ExtraKS and Sitevision styles -->    
+    <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Kunskapsporten Allmän - Kopia KS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" media="print,screen,speech" href="https://extraks.sitevision.se/2.2d4f4005159f895477a1441c/1490080514316/sitevision-responsive-grids.css">
+    <link rel="stylesheet" type="text/css" media="print,screen,speech" href="https://extraks.sitevision.se/2.2d4f4005159f895477a1441c/1490080885947/sitevision-spacing.css">
+    <link rel="stylesheet" type="text/css" media="print,screen,speech" href="https://extraks.sitevision.se/sitevision/4.2.2-49/portlet/sitevision-portlets-min.css">
+    <link rel="stylesheet" type="text/css" media="print,screen,speech" href="https://extraks.sitevision.se/2.2d4f4005159f895477a1441c/auto-1-179/5741/SiteVision.css">
+    <link rel="stylesheet" type="text/css" media="print,screen,speech" href="https://extraks.sitevision.se/2.2d4f4005159f895477a1441c/610/5741/SiteVision.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://extraks.sitevision.se/sitevision/4.2.2-49/util/sitevision_plugins-min.css">
+
+      <!--[if !IE]> --><link href="https://extraks.sitevision.se/2.2d4f4005159f895477a1441c/91.4ae4e9d2159ef4e0120b9b48/1490080934427/0/sv-template-asset.css" rel="stylesheet" /><!-- <![endif]-->
+      <!--[if !IE]> --><link href="https://fonts.googleapis.com/css?family=Roboto|Ubuntu" rel="stylesheet" /><!-- <![endif]-->
+      <!--[if !IE]> --><link href="https://extraks.sitevision.se/2.2d4f4005159f895477a1441c/91.4ae4e9d2159ef4e0120b9b48/1490080934427/1/sv-template-asset.css" rel="stylesheet" /><!-- <![endif]-->
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <!-- Latest master build of KS-css -->
+    <link href="https://kedschools.gitlab.io/publish/ui/kunskapsskolan-ui-purge-rules-min.css" rel="stylesheet" />
+
+    <!-- our stuff below -->    
+    <!-- <link href="css/coursebuilder.css" rel="stylesheet" />
+    <link href="css/course-overview.css" rel="stylesheet" />
+    <link href="KEDComponent.Calendar/calendar.css" rel="stylesheet" />
+    <link href="KEDComponent.KS.TermPlanner/termplanner.css" rel="stylesheet" />
+    <link href="css/delta-css/courseviewer/v3.css" rel="stylesheet" />
+    <link href="css/delta-css/courseviewer/v4.css" rel="stylesheet" />
+    <link href="css/delta-css/courseviewer/v5.css" rel="stylesheet" />
+    <link href="css/delta-css/courseviewer/v6.css" rel="stylesheet" />
+    <link href="css/react-datepicker.css" rel="stylesheet" />
+    <link href="css/delta-css/courseviewer/v5.css" rel="stylesheet" /> -->
+    <link href="css/delta-css/courseviewer/v6.css" rel="stylesheet" />
+    <script src="https://unpkg.com/react@16.8.0/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16.8.0/umd/react-dom.development.js"></script>
+    <!-- <script src="https://unpkg.com/react-addons-update@15.6.2/react-addons-update.min.js"></script>
+    <script src="https://unpkg.com/moment@2.17.1/min/moment.min.js"></script>-->
+    <script src="https://unpkg.com/jquery@3.1.1/dist/jquery.js"></script>
+    <!-- <script src="vendor/reactdatepicker.min.js"></script> -->
+    <script src="vendor/vendors.js"></script>
+    <script src="vendor/testpage.js"></script>
+
+    <style>
+      div.test-page {
+        display: flex;
+        flex-flow: column;
+      }
+      div.test-page > .header {
+        display: flex;
+        flex-flow: row;
+      }
+      div.test-page > .componentRow {
+        display: flex;
+        flex-flow: row;
+      }
+      div.test-page > .componentRow > .componentArea {
+        display: flex;
+        flex-flow: row;
+        min-width: 800px;
+      }
+      div.test-page > .componentRow > .week-planner {
+        width: 400px;
+        display: flex;
+        flex-flow: row;
+      }
+    </style>
+    <style>
+    </style>
+</head>
+<body>
+  <a href="/spadmin.html">Ämnesplaneraren</a>
+  <a href="/sp.html">Ämnesvisaren</a>
+  <a href="/coursebuilder.html">Kursbyggaren</a>
+  <a href="/courseviewer.html">Elev vyn</a>
+  <div class="main-div sv-text-portlet-content sv-portlet" id="mainDiv"></div>
+  <script>
+    window.KED.cfg.KED_FEATURES="*";
+    window.KED.cfg.KED_COURSE_BUILDER_URL='coursebuilder.html';   // https://ks.kunskapsporten.se/Kursbyggaren/KB
+    window.KED.cfg.KED_COURSE_VIEWER_URL='courseviewer.html';     // https://ks.kunskapsporten.se/courseviewer
+    window.KED.cfg.KED_SUBJECT_PLANNER_URL='sp.html'; // 
+    window.KED.cfg.KED_SUBJECT_PLANNER_ADMIN_URL='spadmin.html';
+    window.KED.cfg.KED_FEATURES="*";
+    ReactDOM.render(
+      React.createElement(testpage.default, {
+        //clientId: "395059295490-a7nc8ieqspiuieekohnd5qrj6erj0jk8.apps.googleusercontent.com",
+        //clientId: "488984627428-pvdldvqbrjb095bhe0qo48n082mnpm9e.apps.googleusercontent.com",
+        //username: "david.fahlander@vemendo.se",
+        locale: navigator.language,
+        //firstDay: moment().startOf('week').weekday(1),
+        //numDays: 5,
+        //initialStartHour: 7,
+        //initialEndHour: 18,
+        //initialZoom: 0.75
+      }, null),
+      document.getElementById('mainDiv')
+    );
+  </script>
+</body>
+</html>

@@ -1,0 +1,1239 @@
+{
+    "courses": [
+        {
+            
+            "courseId": "2070d120-30ad-49e9-89c3-9c584a6cfa29",
+            "periodName": "HT2017",
+            "periodGoalGrade": "A",
+            "name": "Naturkunskap 1b",
+            "shortName": "XXX",
+            "courseSteps": []
+        },
+        {
+            "courseId": "2070d120-30ad-49e9-89c3-9c584a6cfa2c",
+            "periodName": "VT2017",
+            "periodGoalGrade": "A",
+            "name": "Engelska",
+            "shortName": "EN",
+            "courseSteps": [
+                {
+                    "stepId": "61f02bc7-1a0d-4b80-9bf1-07b6280379db",
+                    "name": "1. Lära känna varandra",
+                    "shortName": "1",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903600)\/"
+                },
+                {
+                    "stepId": "a34c07c7-3932-4f64-87f9-feb5646db3db",
+                    "name": "10. En saga",
+                    "shortName": "10",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903740)\/"
+                },
+                {
+                    "stepId": "e931f2bb-5727-4d99-b9e5-1bababfbc2e9",
+                    "name": "11. Det här är jag",
+                    "shortName": "11",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903757)\/"
+                },
+                {
+                    "stepId": "ab823339-90ac-4b7f-a895-869d25cef504",
+                    "name": "12. Jag och min familj",
+                    "shortName": "12",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903770)\/"
+                },
+                {
+                    "stepId": "53e00313-4980-4ab2-84ff-abe80ecd72d2",
+                    "name": "13. Jag och mina vänner",
+                    "shortName": "13",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903787)\/"
+                },
+                {
+                    "stepId": "828796e9-84ad-4496-aa78-7850dd5bb23a",
+                    "name": "14. Jag och min fritid",
+                    "shortName": "14",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903803)\/"
+                },
+                {
+                    "stepId": "31e08f37-4ec5-4366-9af6-bca5b9070198",
+                    "name": "15. The Blog",
+                    "shortName": "15",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111904117)\/"
+                },
+                {
+                    "stepId": "4f88e9a3-9b36-47af-9686-d28b00ca98fc",
+                    "name": "16. Sport",
+                    "shortName": "16",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1474888651180)\/"
+                },
+                {
+                    "stepId": "abb57443-be68-48b7-a719-3454afbf3daa",
+                    "name": "17. Musik",
+                    "shortName": "17",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1477656328037)\/"
+                },
+                {
+                    "stepId": "964f7ac3-8cf7-4042-912f-58ffb6812ddb",
+                    "name": "18. Vykort",
+                    "shortName": "18",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "3002e95c-8de0-4914-a754-0773a18606bf",
+                    "name": "19. Läsa noveller",
+                    "shortName": "19",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "d8708a56-e4fb-4ad3-84ef-bb40481eaf80",
+                    "name": "2. Veckans aktiviteter",
+                    "shortName": "2",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903613)\/"
+                },
+                {
+                    "stepId": "46915f18-288c-44df-b224-1852d221b6ca",
+                    "name": "20. Summer camp",
+                    "shortName": "20",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "db22d300-0126-4a32-950d-aaf2f7142627",
+                    "name": "21. Hus och hem",
+                    "shortName": "21",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "68111c18-e610-45c0-b290-9dd3cede1e48",
+                    "name": "22. Sightseeing",
+                    "shortName": "22",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "4c84dd89-66f2-4ea1-bce8-3fde1724dcc9",
+                    "name": "23. Vid matbordet",
+                    "shortName": "23",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1488205880703)\/"
+                },
+                {
+                    "stepId": "75943640-f031-41da-8495-9d87b5804a3e",
+                    "name": "24. Traditioner",
+                    "shortName": "24",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "72021bc2-0ea8-4d39-87fa-11cc976e9c9f",
+                    "name": "25. Staying with a host family",
+                    "shortName": "25",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "574e1626-cad3-4220-8ba7-b443f03830b4",
+                    "name": "26. Det engelska språket",
+                    "shortName": "26",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "50a3682e-057d-45b1-81b5-e2eaa8b6d16b",
+                    "name": "27. Skolan och framtidsdrömmar",
+                    "shortName": "27",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "15a47a71-989a-4348-8fcb-a10683d263ec",
+                    "name": "28. Identitet",
+                    "shortName": "28",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "5717f099-477f-433d-b10a-c2bf0dfe6f8e",
+                    "name": "29. Att läsa en bok",
+                    "shortName": "29",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "0443638f-a546-40d8-a533-e2d12abef609",
+                    "name": "3. Fira ett speciellt tillfälle",
+                    "shortName": "3",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903630)\/"
+                },
+                {
+                    "stepId": "54ff6488-f0ae-4fb6-b4e4-0f29d9274b23",
+                    "name": "30. The World Today",
+                    "shortName": "30",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "2ab8a527-cd74-4847-97a6-79f629e22e84",
+                    "name": "31. Entertainment",
+                    "shortName": "31",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "1b5d42ff-9615-439a-9ae2-89779040bf91",
+                    "name": "32. Interview",
+                    "shortName": "32",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "29ffc098-d26d-4f3b-a295-b5f065923bf2",
+                    "name": "33. Filmed books",
+                    "shortName": "33",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "4d5fe734-9af9-42b8-8c50-920c9a450bc1",
+                    "name": "34. See the film",
+                    "shortName": "34",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "dd87c548-4a3a-4a62-9114-70ec7e713aee",
+                    "name": "35. Write a bestseller",
+                    "shortName": "35",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "1fb5ce80-faf0-465c-9be8-c9bc722297bb",
+                    "name": "36. The English-speaking World",
+                    "shortName": "36",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "f0007f75-0d1f-48c7-8f19-bb2e9f2c5377",
+                    "name": "37. Poetry",
+                    "shortName": "37",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "addebfcc-5b3c-4360-b819-0de0269a5e2d",
+                    "name": "38. Rhetoric",
+                    "shortName": "38",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "23c16db5-d435-49d3-8daa-c2b6433366b7",
+                    "name": "39. An important issue",
+                    "shortName": "39",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "e4d22285-735a-4bab-8884-ca5b736ebb88",
+                    "name": "4. Åka någonstans",
+                    "shortName": "4",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903647)\/"
+                },
+                {
+                    "stepId": "4c489a2b-ee79-4f89-9818-787632abfba8",
+                    "name": "40. Write a speech",
+                    "shortName": "40",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "9667976c-83ab-4b9e-8a76-d330983c28f5",
+                    "name": "41. Changing world",
+                    "shortName": "41",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "6bb14af9-9094-4938-be2d-2725a931895c",
+                    "name": "42. An organization",
+                    "shortName": "42",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "fe313a1a-dc5c-4890-b11e-b8e109db689b",
+                    "name": "43. The written word",
+                    "shortName": "43",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "f1a592ec-6095-4ae4-9b9e-ebd527c18a2a",
+                    "name": "44. Communication",
+                    "shortName": "44",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "5f6a5e15-462b-40ab-981b-b93e5fc0ee22",
+                    "name": "45. Giving a lecture",
+                    "shortName": "45",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "8c9b57c1-cf05-4465-84b2-68cf353b1075",
+                    "name": "5. Min semester",
+                    "shortName": "5",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903660)\/"
+                },
+                {
+                    "stepId": "1bd11f36-6438-40b5-ad4c-4b02b6f481d0",
+                    "name": "6. Låt oss prata om det",
+                    "shortName": "6",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903677)\/"
+                },
+                {
+                    "stepId": "d49c08ee-c0e6-4599-b79f-5efd811fe33c",
+                    "name": "7. Jag är en turist",
+                    "shortName": "7",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903693)\/"
+                },
+                {
+                    "stepId": "2def3414-de65-46c0-8f48-f8aa18be7b7c",
+                    "name": "8. Vänner över hela världen",
+                    "shortName": "8",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903707)\/"
+                },
+                {
+                    "stepId": "ea8ff1a0-4bad-43ac-b328-62dff3e4d08e",
+                    "name": "9. Hjältar och kända personer",
+                    "shortName": "9",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472111903723)\/"
+                }
+            ]
+        },
+        {
+            "courseId": "9d129e6a-9557-4849-a53f-416725502895",
+            "periodName": "VT2017",
+            "periodGoalGrade": "C",
+            "name": "Matematik",
+            "shortName": "MA",
+            "courseSteps": [
+                {
+                    "stepId": "f1af6c2c-799a-4a3d-9985-c423940e91c0",
+                    "name": "1. Tal och mönster",
+                    "shortName": "1",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1474401815917)\/"
+                },
+                {
+                    "stepId": "4a34c53d-93d0-4247-ba19-9ce9dbed6de5",
+                    "name": "10. Lägesmått och diagram",
+                    "shortName": "10",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1474401816200)\/"
+                },
+                {
+                    "stepId": "0816a2b0-3aa7-41a9-bc39-971ccc7bd79c",
+                    "name": "11. Räknesätt",
+                    "shortName": "11",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1476103754013)\/"
+                },
+                {
+                    "stepId": "fdc90a9c-b06a-48b1-9781-606c230c425c",
+                    "name": "12. Geometri",
+                    "shortName": "12",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1481279716607)\/"
+                },
+                {
+                    "stepId": "bfd77c92-6636-45fa-9002-d813beaa56c3",
+                    "name": "13. Rymdgeometri",
+                    "shortName": "13",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1489669353170)\/"
+                },
+                {
+                    "stepId": "58a619a1-b99a-487b-bbd5-abd31a903e5a",
+                    "name": "14. Räknemetoder och algebra",
+                    "shortName": "14",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "55b88760-22aa-452a-8a57-131346669aad",
+                    "name": "15. Problemet",
+                    "shortName": "15",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "47f16476-ea47-40a2-a073-7ac4b36c4bf0",
+                    "name": "16. Delen och det hela",
+                    "shortName": "16",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "704e3d5b-fce7-409b-b989-340b2d7b2e18",
+                    "name": "17. Geometri och vinklar",
+                    "shortName": "17",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "db5693ea-48ef-44ce-8107-be9915ef5256",
+                    "name": "18. Funktioner",
+                    "shortName": "18",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "f9250c97-d932-4bf6-989e-204c0ef582c9",
+                    "name": "19. Proportionalitet",
+                    "shortName": "19",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "d0411b1d-c9b4-452f-9fb6-ea7206755ecd",
+                    "name": "2. Längd och räknesätt",
+                    "shortName": "2",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1474401815930)\/"
+                },
+                {
+                    "stepId": "616b742e-b175-45c3-a926-fda3e4d8af80",
+                    "name": "20. Förflyttningsgraf",
+                    "shortName": "20",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "f8a9b467-6ba6-4d9a-8174-87e369062621",
+                    "name": "21. Likformighet",
+                    "shortName": "21",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "8fe483d7-b78b-4d9d-9402-15d57da05832",
+                    "name": "22. Bråk, sannolikhet och kombinatorik",
+                    "shortName": "22",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "7eb39090-6461-4ce4-b008-dd98f8a57679",
+                    "name": "23. Negativa tal, procentsatser och förändringsfaktor",
+                    "shortName": "23",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "34cb3911-3a78-4773-a823-2f9054a9a925",
+                    "name": "24. Algebra och ekvationer",
+                    "shortName": "24",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "49abad1a-dd4b-4b0b-8d1f-752796723ca1",
+                    "name": "25. Lotteriet",
+                    "shortName": "25",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "6756d8bc-e31a-4139-8d95-8f47916a361b",
+                    "name": "26. Geometriska samband",
+                    "shortName": "26",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "0f0efee5-e617-4bca-b84e-e50e32aac90b",
+                    "name": "27. Rymdgeometri",
+                    "shortName": "27",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "de4e12d1-f678-4b1a-ac7b-5d62cdaeb52d",
+                    "name": "28. Storheter och proportionella samband",
+                    "shortName": "28",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "80323de8-fe66-4750-bb2e-d0dbabbb3dac",
+                    "name": "29. Funktioner och grafer",
+                    "shortName": "29",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "68894968-8a16-497a-8b97-711df61fca71",
+                    "name": "3. Tal och enheter",
+                    "shortName": "3",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1474401815947)\/"
+                },
+                {
+                    "stepId": "fa32d170-ab25-466d-91a8-a88f955cc5bc",
+                    "name": "30. Förpackning",
+                    "shortName": "30",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "4c31e00f-aeda-409f-8583-9805c0bb4f7f",
+                    "name": "31. Negativa tal och statistik",
+                    "shortName": "31",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "691bb48b-070d-4227-8fb6-2edce2fc6be4",
+                    "name": "32. Bråk",
+                    "shortName": "32",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "320481da-e417-4c52-af23-0076b694794d",
+                    "name": "33. Procent och förändringsfaktor",
+                    "shortName": "33",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "f3a4338d-504e-4092-9610-ef2775b5b411",
+                    "name": "34. Potenser",
+                    "shortName": "34",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "f43d7931-158c-4759-b7be-b14cf68c939a",
+                    "name": "35. Solsystemet",
+                    "shortName": "35",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "8931fc26-693a-41bd-8040-e01a6d22b2b5",
+                    "name": "36. Ekvationer och algebra",
+                    "shortName": "36",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "94370d70-dcbd-4eef-baf1-e92f6680b966",
+                    "name": "37. Funktioner och grafer",
+                    "shortName": "37",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "ab0535df-68cc-4c10-86eb-afba3e199d0a",
+                    "name": "38. Geometri",
+                    "shortName": "38",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "4ba66c7a-7d8f-4576-aefa-c09397b99db0",
+                    "name": "39. Sannolikhet",
+                    "shortName": "39",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "c4e12bc8-1428-4d1b-a273-e947fa0574f3",
+                    "name": "4. Multiplikation och division",
+                    "shortName": "4",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1474401815963)\/"
+                },
+                {
+                    "stepId": "0b75ce2b-89de-432a-9eee-d6a7b74b6f38",
+                    "name": "40. Chokladfabriken",
+                    "shortName": "40",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "dba4a055-c143-4bd4-b436-3eb508ebe658",
+                    "name": "41. Genrella lösningsmetoder",
+                    "shortName": "41",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "db193873-0a8c-4073-8618-99c5a56f710b",
+                    "name": "42. Avancerad ekvationslösning",
+                    "shortName": "42",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "357ee123-1d77-4568-8fa1-78b5662e12b3",
+                    "name": "43. Problemlösning",
+                    "shortName": "43",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "015cdd58-7b31-4a89-a9fe-cd0bb45e7434",
+                    "name": "44. Avancerad problemlösning",
+                    "shortName": "44",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "785e12ac-4a71-4acf-bf40-27652faf20ff",
+                    "name": "45. Vad är matematik?",
+                    "shortName": "45",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "6372cdb6-91cf-4f0f-ac9c-8578c00760ff",
+                    "name": "5. Form och storlek",
+                    "shortName": "5",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1474401815977)\/"
+                },
+                {
+                    "stepId": "c781e529-fefa-43ce-99fb-d232585a1e1a",
+                    "name": "6. Tid och räknesätt",
+                    "shortName": "6",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1474401815993)\/"
+                },
+                {
+                    "stepId": "5df2975c-f84e-4620-abe9-5c47ebcb0f90",
+                    "name": "7. Bråk och decimaltal",
+                    "shortName": "7",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1474401816007)\/"
+                },
+                {
+                    "stepId": "9cbb966f-32df-48cf-be77-5e00d466d63a",
+                    "name": "8. Procent och bråk",
+                    "shortName": "8",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1474401816023)\/"
+                },
+                {
+                    "stepId": "b1b59f38-63c6-428a-a512-220b7d838e5f",
+                    "name": "9. Sannolikhet och bråk",
+                    "shortName": "9",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1474401816040)\/"
+                }
+            ]
+        },
+        {
+            "courseId": "cfdc5bc0-ea41-4683-b941-d980de4e82a5",
+            "periodName": "VT2017",
+            "periodGoalGrade": "D",
+            "name": "Spanska, språkval",
+            "shortName": "M2SP",
+            "courseSteps": [
+                {
+                    "stepId": "16bb0ce6-60ac-4937-8e60-dd633cd7c5f0",
+                    "name": "1. Första mötet",
+                    "shortName": "1",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1476255771933)\/"
+                },
+                {
+                    "stepId": "f3504ab6-386c-42d2-882b-668719f329b5",
+                    "name": "10. Turist",
+                    "shortName": "10",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "d2de4e01-44dd-4ba7-a69f-075450c627a7",
+                    "name": "11. Skolan",
+                    "shortName": "11",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "58e4d577-05f5-4071-8745-a41571df3019",
+                    "name": "12. Fritiden",
+                    "shortName": "12",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "d8a079f9-3fef-4fbc-b868-6b050e3832d1",
+                    "name": "13. Stämma träff",
+                    "shortName": "13",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "d62f63a1-3806-4650-b6a9-354eccd056b9",
+                    "name": "14. Sport och musik",
+                    "shortName": "14",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "b475dc9d-e694-4eb9-8c78-b150494dfe84",
+                    "name": "15. Presentera dig själv",
+                    "shortName": "15",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "009c68f6-db7e-44a3-bc5c-d1e2e78d327c",
+                    "name": "16. När och fjärran",
+                    "shortName": "16",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "a124f250-2fb7-4b57-b2bc-b72e0e8fd21a",
+                    "name": "17. Mat och traditioner",
+                    "shortName": "17",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "ec6ccef4-58b5-4111-b152-8a7a7f546bb8",
+                    "name": "18. Planera en resa",
+                    "shortName": "18",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "ec96d506-112e-4b38-8946-6f19130bd741",
+                    "name": "19. Etikett och regler",
+                    "shortName": "19",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "0b52b5e6-bbc7-4c78-815c-efc30fa984af",
+                    "name": "2. Min familj",
+                    "shortName": "2",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1488368769260)\/"
+                },
+                {
+                    "stepId": "e05c674b-1097-4646-ac47-1d8c4342a343",
+                    "name": "20. Resan",
+                    "shortName": "20",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "f6f8cffb-69ae-4148-81fa-35e1f984f836",
+                    "name": "21. Boende",
+                    "shortName": "21",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "aee9167c-2f65-4f8d-a94b-684458c300bc",
+                    "name": "22. Familjeliv",
+                    "shortName": "22",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "115f28de-fe33-435e-a7fb-36fea0a37cce",
+                    "name": "23. Bostadsläge",
+                    "shortName": "23",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "d5e8b9e2-b84e-4af7-8b20-e37896dec41d",
+                    "name": "24. Min stad",
+                    "shortName": "24",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "c2f15857-a682-4b02-8d00-ec042858e799",
+                    "name": "25. Presentera någon annan",
+                    "shortName": "25",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "1bc87327-1e3f-42f6-b839-e9b385200149",
+                    "name": "26. Media",
+                    "shortName": "26",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "36f23967-f30b-4cbc-a69c-4191094e182d",
+                    "name": "27. En tv-kväll",
+                    "shortName": "27",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "32ead07a-fa58-4770-ac20-3a31f27069cf",
+                    "name": "28. Tidningar",
+                    "shortName": "28",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "598d7b7e-97b6-4ff3-b7a7-8f5c45c164cd",
+                    "name": "29. Film",
+                    "shortName": "29",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "12e8d03b-7d80-434c-9201-7f852f5c114c",
+                    "name": "3. Fler siffror, månader och väder",
+                    "shortName": "3",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "98f0825e-e200-43f4-9f4b-866bb50d28dd",
+                    "name": "30. Tidningen",
+                    "shortName": "30",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "956757b9-979f-4d12-be01-8b30970b603e",
+                    "name": "31. Min framtid",
+                    "shortName": "31",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "c2003358-0ce9-409b-82fa-e7a0bff891fc",
+                    "name": "32. Ung i framtiden",
+                    "shortName": "32",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "1c1ca040-f96d-46af-862b-a978698e2745",
+                    "name": "33. Insändare",
+                    "shortName": "33",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "64f620bb-8c77-4de2-88e2-feaa21f4c41e",
+                    "name": "34. På gymnasiet",
+                    "shortName": "34",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "4c3c19eb-0447-47cf-bb72-8d1176118c71",
+                    "name": "35. Framtiden",
+                    "shortName": "35",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "c3779788-030e-46f3-89a7-a15015931a51",
+                    "name": "4. Det här är jag",
+                    "shortName": "4",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "a6628c06-443a-481d-96fc-c019800e8e4e",
+                    "name": "5. Boken",
+                    "shortName": "5",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "f34e1dee-1dd3-4bcd-89b4-f0ba6638c65c",
+                    "name": "6. På café",
+                    "shortName": "6",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "9ffb3665-0e3a-423a-af93-c5006a2a4839",
+                    "name": "7. Att handla",
+                    "shortName": "7",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "63e62432-ba1e-4f96-911c-52bd756c803e",
+                    "name": "8. I staden",
+                    "shortName": "8",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "3c93cf1d-2e82-452b-9333-16b336fdda6d",
+                    "name": "9. På hotellet",
+                    "shortName": "9",
+                    "isCompleted": null,
+                    "completedDate": null
+                }
+            ]
+        },
+        {
+            "courseId": "3cc7c710-63fb-49bd-8dc5-b95be6374122",
+            "periodName": "VT2017",
+            "periodGoalGrade": "C",
+            "name": "Svenska",
+            "shortName": "SV",
+            "courseSteps": [
+                {
+                    "stepId": "379585a4-f602-4086-920d-d506d2e93fed",
+                    "name": "1. Min bästa sak",
+                    "shortName": "1",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179490)\/"
+                },
+                {
+                    "stepId": "5d90747a-d5ff-4c12-818c-d301e4cf2405",
+                    "name": "10. Quizkampen",
+                    "shortName": "10",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179630)\/"
+                },
+                {
+                    "stepId": "fb271830-5368-43dc-b911-3d65af082e26",
+                    "name": "11. Ta kontakt",
+                    "shortName": "11",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179647)\/"
+                },
+                {
+                    "stepId": "bf7a93a6-24af-4d01-8839-aa4f3f6b438d",
+                    "name": "12. Samla fakta och presentera",
+                    "shortName": "12",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179660)\/"
+                },
+                {
+                    "stepId": "2a712108-e5d7-4ffb-a55f-80ff195ea946",
+                    "name": "13. Påverka och uttrycka åsikter",
+                    "shortName": "13",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179943)\/"
+                },
+                {
+                    "stepId": "94b5abaa-0471-4ab4-be3c-c0b0d4098609",
+                    "name": "14. Språk i Sverige",
+                    "shortName": "14",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1475049857367)\/"
+                },
+                {
+                    "stepId": "e0169353-8ac0-4fcd-8a45-4cfffc5fe55e",
+                    "name": "15. Min förebild",
+                    "shortName": "15",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1480951054357)\/"
+                },
+                {
+                    "stepId": "e12c8fa6-8aaa-4598-8e6f-5c6d318163db",
+                    "name": "16. Förstå, minnas och lära",
+                    "shortName": "16",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1490605558217)\/"
+                },
+                {
+                    "stepId": "1a19c53b-36f0-4309-adfd-26a307b43dbd",
+                    "name": "17. Använda språket i olika sammanhang",
+                    "shortName": "17",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "31aa5b91-59d0-41db-ab2e-0bdec6342dfe",
+                    "name": "18. Sammanfatta och presentera",
+                    "shortName": "18",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "48747057-835d-40fd-811f-dde4fd48f3a0",
+                    "name": "19. Den moderna ungdomen",
+                    "shortName": "19",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "4708aedf-3b7d-4ec0-80c9-769de4cdda9b",
+                    "name": "2. Författare",
+                    "shortName": "2",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179507)\/"
+                },
+                {
+                    "stepId": "4258123d-d122-4058-8120-9de7d1fb3d66",
+                    "name": "20. Att vara ungdom idag",
+                    "shortName": "20",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "3d94e56d-9d38-4d3c-a3cb-d4f2d13814c9",
+                    "name": "21. Upplysningstiden och romantiken",
+                    "shortName": "21",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "5d8c3d70-e996-4236-9326-982ed128340c",
+                    "name": "22. Realismen och modernismen",
+                    "shortName": "22",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "02037ab3-ffdf-4fe2-a172-26de404c58bc",
+                    "name": "23. Våga utanför ramarna",
+                    "shortName": "23",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "7c376d37-0170-49ac-865d-5479d82ce806",
+                    "name": "24. Modern litteratur",
+                    "shortName": "24",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "7131b28d-89d1-40f6-8d87-80fd0c15486d",
+                    "name": "25. Budskapet",
+                    "shortName": "25",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "30c876a6-48a7-4fc7-a49f-ad44bac3d4bb",
+                    "name": "26. Övertyga och påverka",
+                    "shortName": "26",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "97b328ea-3342-41d6-a1c5-91e9c1d17a08",
+                    "name": "27. Språkbruk genom tiderna",
+                    "shortName": "27",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "e4ec472d-b31c-4d20-886c-0162e1159e55",
+                    "name": "28. Tidningstexter",
+                    "shortName": "28",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "47ccf40e-28a1-4432-91ed-f3013eb97aa8",
+                    "name": "29. Samtala om texter",
+                    "shortName": "29",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "6c89c307-adff-46b8-9d75-2ecb1fc714ce",
+                    "name": "3. Leka med ord",
+                    "shortName": "3",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179520)\/"
+                },
+                {
+                    "stepId": "2145d4aa-60db-42f9-918b-49f3bf714786",
+                    "name": "30. Språkets möjligheter",
+                    "shortName": "30",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "c211ba3d-b8fa-4c5c-bbe1-bcfea2a243b5",
+                    "name": "31. Dikt och diktanalys",
+                    "shortName": "31",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "fbeb356a-5c9d-4114-9a4b-9ac2325913d0",
+                    "name": "32. Berättarteknik i skönlitteratur",
+                    "shortName": "32",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "4446df13-5bb8-4cf1-beb4-4d2b43bf97b8",
+                    "name": "33. Utveckla ditt skönlitterära skrivande",
+                    "shortName": "33",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "47e0c5bf-2898-4cc3-8119-2346d4c6c78f",
+                    "name": "34. Noveller",
+                    "shortName": "34",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "3b072a72-9f2c-4439-b095-33edb5ae3276",
+                    "name": "35. Det fria ordet - En skönlitterär djupdykning",
+                    "shortName": "35",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "56a2b991-63f5-4f1c-8e48-1bc1f83fa9a9",
+                    "name": "36. Debatt och retorik",
+                    "shortName": "36",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "7b0e633b-65b5-407d-8bdd-d77673d1be1f",
+                    "name": "37. Argumenterande texter",
+                    "shortName": "37",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "d76356c9-2fdd-4845-aa7a-1bf54547a34e",
+                    "name": "38. Analysera tal",
+                    "shortName": "38",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "eb312838-f59b-4815-987f-d7f11973a95f",
+                    "name": "39. Tal",
+                    "shortName": "39",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "48559f29-37cb-451f-8f40-354101a413af",
+                    "name": "4. Skrivarskola",
+                    "shortName": "4",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179537)\/"
+                },
+                {
+                    "stepId": "a054f1e2-b296-4185-b9b7-dac94f600ab3",
+                    "name": "40. Muntlig argumentation",
+                    "shortName": "40",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "2e5ff9f3-ac8e-4fea-abe2-a7534e64e25f",
+                    "name": "41. Modern lyrik",
+                    "shortName": "41",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "ceed4cee-dd38-40b9-af97-43b0af244a41",
+                    "name": "42. Nobelpriset i litteratur",
+                    "shortName": "42",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "2df27363-1a57-4129-96dc-5e2a26dc0209",
+                    "name": "43. Analysmetod i akademiska uppsatser",
+                    "shortName": "43",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "71062f38-2874-4d6a-96b9-8128a10e3559",
+                    "name": "44. Litteratur som väckt debatt genom tiderna",
+                    "shortName": "44",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "d0e40b55-4638-45fd-b9f3-924c68c673cc",
+                    "name": "45. Analysera vetenskapligt",
+                    "shortName": "45",
+                    "isCompleted": null,
+                    "completedDate": null
+                },
+                {
+                    "stepId": "5954c057-cdc2-4293-bb9e-8b96ec27e04c",
+                    "name": "5. Min bästa sak på äventyr",
+                    "shortName": "5",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179553)\/"
+                },
+                {
+                    "stepId": "5b9e5c30-c9de-4092-b7e6-0dbb4e3513ff",
+                    "name": "6. Faktatext",
+                    "shortName": "6",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179567)\/"
+                },
+                {
+                    "stepId": "2b823257-8dad-4f6b-8f2b-539e4dae0bd4",
+                    "name": "7. Tal- och skriftspråk",
+                    "shortName": "7",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179583)\/"
+                },
+                {
+                    "stepId": "28e73fd2-c40a-4319-8b93-ec0f1b658c81",
+                    "name": "8. Dikter",
+                    "shortName": "8",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179600)\/"
+                },
+                {
+                    "stepId": "35a5926a-8cb3-4c9d-a7ef-714761935755",
+                    "name": "9. Olika texttyper",
+                    "shortName": "9",
+                    "isCompleted": true,
+                    "completedDate": "\/Date(1472559179613)\/"
+                }
+            ]
+        }
+    ]
+}

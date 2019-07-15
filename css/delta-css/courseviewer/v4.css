@@ -1,0 +1,61 @@
+.editTaskDialog {
+  min-height: 450px;
+}
+
+.deleteDate:before {
+  display: inline-block;
+  content: "\f273";
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: 1.25em;
+  font-weight: normal;
+  margin-left: .8em;
+  margin-top: 0.26em;
+  color: #d55858;
+}
+
+.horizontalButton {
+  display: table-cell;
+  /* margin-top: 2em; */
+}
+
+.divider {
+  display: block;
+  clear: both;
+  margin-bottom: 1em;
+}
+
+.divider.large {
+  margin-bottom: 3em;
+}
+
+.dateSet {
+  display: inline;
+  color: #866868;
+  margin-left: 0.3em;
+}
+
+.dateSet.expired {
+  color: #da4444;
+}
+
+label.kclabel {
+  /* Align with the styling of h4 */
+  font-family: circular-bold,arial,sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.125em;
+  color: #000;
+  line-height: 1.11111111;
+  margin-top: 0.5em; /* Add some margin */
+  margin-bottom: 0.5em; /* add some margin */
+  display: block;
+}
+
+.subtasks {
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+.wysiwyg-content.readonly {
+  max-height: initial;
+}

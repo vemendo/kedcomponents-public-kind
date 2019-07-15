@@ -1,0 +1,22 @@
+{
+    "assessments": [
+      {
+        "publishDateTime": "2017-08-28T09:05:43.16",
+        "text": "Testbedömning Engelsa 5",
+        "gradeName": "C",
+        "courseUnitName": "1. Ready, steady, go!"
+      },
+      {
+        "publishDateTime": "2017-08-28T08:59:21.253",
+        "text": "Testbedömning...\r\n/ Kim test",
+        "gradeName": "C",
+        "courseUnitName": "Tema 1"
+      },
+      {
+        "publishDateTime": "2017-08-10T09:43:36.797",
+        "text": "Test",
+        "gradeName": "D",
+        "courseUnitName": "Block 1"
+      }
+    ]
+  }

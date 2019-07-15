@@ -1,0 +1,105 @@
+@import url("https://kedschools.gitlab.io/publish/ui/kunskapsskolan-ui-purge-rules-min.css");
+
+svg.doughnut-chart .circle-chart-circle {
+  transition: stroke-dasharray 1s;
+  transform: rotate(-90deg);
+  transform-origin: center;
+}
+
+svg.doughnut-chart .circle-chart-info .circle-chart-percent{
+  font-size: 8px;
+  font-weight: bold;
+  fill:#6b6b6d;
+}
+
+.termplanner .charts-container{
+  display: flex;
+  flex-direction: row;
+}
+
+.termplanner .charts-container .chart-box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2em;
+}
+
+.termplanner .charts-container .inner-chart-box{
+  width:78px;
+  height: 78px;
+  margin: 10px 10px 10px;
+}
+
+
+.weekPlanner .widgets{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.weekPlanner .widgets .progressBar{
+  width: 50%;
+}
+
+.weekPlanner .widgets .weekSelect{
+  margin-top: 0px !important;
+}
+
+.progress-chart .fill{
+  transition: width 1s;
+  stroke-width: 25px;
+}
+
+.goals-progress{
+  margin-top:0.3em !important;
+  margin-left:0.3em;
+  font-weight: bold;
+  display: flex;
+}
+
+.ked_boxed .openHeaderContainer{
+  display: flex;
+  flex-direction: row;
+}
+
+.goals-progress svg{
+  width:20px;
+  height: 20px;
+}
+
+.horizontaItem.activateCourseModule{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+}
+
+.horizontaItem.activateCourseModule .btn-info.btn-activate{
+  background-color: #dada39!important;
+}
+
+.horizontaItem.activateCourseModule .btn-info.btn-inactivate{
+  background-color:#d55858!important;
+}
+
+div.darken {
+  z-index: 100;
+}
+
+div.modal-page-wrap{
+  z-index: 150;
+}
+
+.goals-progress .progress-overview{ 
+  line-height: 1;
+}
+
+.matrix-knowledge-title {
+  display: flex;
+  justify-content: space-between;
+}
+.matrix-knowledge-title .activePartialView{
+  color: var(--col-Cyan);
+}
